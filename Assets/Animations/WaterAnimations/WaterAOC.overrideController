@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WaterAOC
+  m_Controller: {fileID: 9100000, guid: 64d575af76f56f441a253035f4bf1472, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4d7b80b9e34b23d49a038f927d6fd673, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d7b80b9e34b23d49a038f927d6fd673, type: 2}
