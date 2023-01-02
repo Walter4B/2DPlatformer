@@ -1,9 +1,7 @@
 # 2DPlatformer
-2D Platformer
-
--Project abandond-
 
 Unity game for android phones.
 
 Short 2D puzzle platformer for mobile platforms.
-In the futere might be fixed and expanded to work properly.
+
+Mechanics are working on pc and it can be started on andorid phones but needs to be fixed to work properly
